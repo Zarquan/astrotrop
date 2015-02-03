@@ -218,6 +218,10 @@
 # http://deforestationwatch.wordpress.com/
 
 
+https://deforestationwatch.wordpress.com/2013/04/25/a-step-by-step-guide-to-making-maps-of-vegetation-carbon-stocks/
+http://www.geos.ed.ac.uk/~emitchar/carbonmapcomparison/datasources.html
+
+
 
 
 # ------------------------------------------------------------------
